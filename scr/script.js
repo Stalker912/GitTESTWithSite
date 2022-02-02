@@ -60,17 +60,17 @@
 // }
 
 // Оbjects
-const Person = 
-{
-    FistName: "Hello",
-    LastName: "Word",
-    BirthYear: 2001,
-    Languages: ["Russian", "English", "Japan"],
-    IsSingle: true,
-    GetFullName: function()
-    {
-        return this.FistName + " " + this.LastName
-    }
-}
-console.log(Person)
-console.log(Person.FistName)
+// const Person = 
+// {
+//     FistName: "Hello",
+//     LastName: "Word",
+//     BirthYear: 2001,
+//     Languages: ["Russian", "English", "Japan"],
+//     IsSingle: true,
+//     GetFullName: function()
+//     {
+//         return this.FistName + " " + this.LastName
+//     }
+// }
+// console.log(Person)
+// console.log(Person.FistName)
